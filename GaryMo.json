@@ -40,7 +40,7 @@
       "searchable":0,
       "changeable":0,
       "timeout":60,
-      "ext":"https://notabug.org/lingdu/GaryMo/raw/master/白嫖王/json/alist.json"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/MoxiaoFan/main/lib/alist.json"
     },
     {
       "key":"bili",
