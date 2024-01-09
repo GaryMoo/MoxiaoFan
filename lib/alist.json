@@ -2,8 +2,12 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
-      "name": "罗汉果",
-      "server": "https://lala-ofbip.run.goorm.site/"
+      "name": "凌渡",
+      "server": "http://192.168.50.1:5244",
+      "login": {
+        "username": "admin",
+        "password": "admin"
+      }
     },
     {
       "name": "小雅",
