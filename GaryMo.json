@@ -1,15 +1,16 @@
 {
   "spider":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/MoxiaoFan/main/pg.jar",
   "wallpaper":"http://饭.eu.org/深色壁纸/api.php",
-  "lives":
-  [
-    {
-      "name":"IPV6专用",
-      "type":0,
-      "url":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/MoxiaoFan/main/lives/ceshi.txt",
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
-    }
-  ],
+  "lives": [
+        {
+            "name": "ceshi",
+            "type": 0,
+            "playerType": 1,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/MoxiaoFan/main/lives/ceshi.txt?ref_type=heads",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
   "sites":[
     {
       "key":"Douban",
