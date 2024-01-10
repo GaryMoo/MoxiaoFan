@@ -6,7 +6,7 @@
     {
       "name":"IPV6专用",
       "type":0,
-      "url":"./lives/ceshi.txt",
+      "url":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/MoxiaoFan/main/lives/ceshi.txt",
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
