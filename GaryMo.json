@@ -13,7 +13,7 @@
   "sites":[
     {
       "key":"Douban",
-      "name":"豆瓣 | 索引",
+      "name":"凌渡 | 网仓",
       "type":3,
       "api":"csp_Douban",
       "searchable":0,
