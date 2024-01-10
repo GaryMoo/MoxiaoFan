@@ -6,7 +6,7 @@
     {
       "name":"IPV6专用",
       "type":0,
-      "url":"./lives/IPV6专用.txt",
+      "url":"./lives/ceshi.txt",
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
